@@ -245,3 +245,6 @@ ModelManifest.xml
 .fake/
 
 out/
+
+.DS_Store
+.mono
